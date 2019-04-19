@@ -10,3 +10,4 @@ vous pouvez voir en <a href="https://afternoon-basin-28032.herokuapp.com/" targe
   
 * NodeJS (ExpressJS)
 * MongoDB
+* JQuery
